@@ -2,7 +2,7 @@
 
 **Twitter** is a basic twitter app to read and compose tweets the [Twitter API](https://apps.twitter.com/).
 
-Time spent: **7** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client.
-- [x] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count.
+- [ ] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count.
 - [ ] User can pull to refresh.
 
 The following **additional** features are implemented:
@@ -33,18 +33,17 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/Dcz6Ltj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/wINSyCW.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-    I used "id" instead of "id_str" for the retweet and favorited id, which gaved me a forbidden error(401).
 
 ## License
 
-    Copyright [2016] [Vincent Duong]
+    Copyright [2016] [Lily Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -57,10 +56,10 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
+
 # Project 5 - *Twitter*
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -100,7 +99,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/iC77FOi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gY2QxkU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -110,7 +109,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2016] [Vincent Duong]
+    Copyright [2016] [Lily Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
